@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="5">
+    <meta name="description"content="thi is html page"/>
+    <meta name="keywords"content="objective,html,css"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="manifest.json">
+    <link rel="import" href="component.html">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+      #heading{
+        color: brown; 
+        background-color: blanchedalmond;
+      }
+      p{
+        background-color: blanchedalmond;
+      }
+
+    </style>
+    <header>header</header>
+    <nav>navbar</nav>
+    <main>
+        main
+        <section>section</section>
+        <article>article</article>
+    </main>
+    <footer>footer</footer>
+    <a href="https://slidesgo.com/search?q=black+and+white#rs=search">Click me</a>
+    <input type="text"/>
+    <label for="">label</label>
+    <a href=""heading>HELLO HEADING</a>
+    <video src="">controls</video>
+    <h1 class="" id="heading" >hello heading how are you</h1>
+    <p>hi there how are you hope you atre doing well</p>
+</body>
+</html>
